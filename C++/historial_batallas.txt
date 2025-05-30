@@ -1,0 +1,6 @@
+Ganador: Pikachu | Perdedor: Bulbasaur
+Ganador: Charmander | Perdedor: Bulbasaur
+Ganador: Pikachu | Perdedor: Squirtle
+Ganador: Pikachu | Perdedor: Bulbasaur
+Ganador: Pikachu | Perdedor: Squirtle
+Ganador: Pikachu (Nivel 1) | Perdedor: Bulbasaur
